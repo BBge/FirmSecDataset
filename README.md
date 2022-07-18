@@ -8,7 +8,7 @@ Please directly contact binbin.zhao@gatech.edu to get the dataset.
 ![Dataset](Dataset.png)
 
 ## Citation:
-If you use our dataset, please consider cite our paper, thanks!
+Please consider citing our paper, thanks!
 
 ```
 @inproceedings{zhao2022firmsec,
