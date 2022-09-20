@@ -7,6 +7,11 @@ Please directly contact binbin.zhao@gatech.edu to get the dataset.
 
 ![Dataset](Dataset.png)
 
+## FAQ
+
+### Will you share the modified binwalk?
+We recommend you to use the binwalk in this repository: https://github.com/sheabot/binwalk-docker. It is easy to configure and has a similar performance to (maybe better than) our tool.
+
 ## Citation:
 Please consider citing our paper, thanks!
 
